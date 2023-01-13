@@ -18,3 +18,25 @@ or
 yarn
 yarn start
 ```
+
+## Project Structure
+
+```
+.
+├── .github/
+├── public/
+├── src
+│   ├── assets/
+│   ├── components/
+│   ├── helpers/
+│   ├── store/
+│   ├── index.js
+│   ├── serviceWorker.js
+│   ├── views ───────├──Login
+│   └── setupTests.js├──Register
+├── .env             ├──Dashboard
+├── .gitignore       ├──Users
+├── .eslintrc        ├──About
+├── package.json     ├──Contract
+├── README.md        ├──NotFound
+```
